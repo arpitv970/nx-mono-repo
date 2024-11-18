@@ -1,0 +1,15 @@
+{
+  "name": "nx-setup",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "19.8.11",
+    "nx": "19.8.11"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
